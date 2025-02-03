@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Nathan Brown # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Business Intelligence Analyst | Data Analysis | Data Visualization | Consulting | Donut Aficionado 
   <br><br>
-  Second description 
+  Welcome to my portfolio page. Here you can find projects from my educational course work, as well as some things that are just for fun. Thank you for taking the time to review my work.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/nathan-brown-bia">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
