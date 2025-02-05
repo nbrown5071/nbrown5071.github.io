@@ -2,7 +2,7 @@
 
 ---
 
-### Zomato Marketing Segment Analysis
+[### Zomato Marketing Segment Analysis](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/ZomatoREADME.md)
 [<img src="images/Zomato Marketing Segment Dashboard.png?raw=true"/>](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/ZomatoREADME.md)
 
 ---
