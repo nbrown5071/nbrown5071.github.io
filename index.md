@@ -1,11 +1,11 @@
-## Portfolio
+## Nathan Brown's Portfolio
 
 ---
 
-### Category Name 1 
+### Zomato Marketing Segment Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Zomato Marketing Segment Analysis](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/ZomatoREADME.md)
+<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/Zomato%20Marketing%20Segment%20Dashboard.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
